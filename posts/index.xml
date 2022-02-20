@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Not A Number is Zen</title>
+    <link>http://nan-is-zen.online/posts/</link>
+    <description>Recent content in Posts on Not A Number is Zen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Feb 2022 11:57:40 +0100</lastBuildDate><atom:link href="http://nan-is-zen.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://nan-is-zen.online/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Feb 2022 11:57:40 +0100</pubDate>
+      
+      <guid>http://nan-is-zen.online/posts/my-first-post/</guid>
+      <description>How to deploy it to the linode server?</description>
+    </item>
+    
+  </channel>
+</rss>
